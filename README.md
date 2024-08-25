@@ -48,6 +48,4 @@ Por ejemplo:
 
 ---
 
-# [ir a la pagina]()
-
-# challenge_alura_xureja
+# [ir a la pagina](https://xureja.github.io/challenge_alura_xureja/)
