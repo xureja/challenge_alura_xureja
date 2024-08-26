@@ -44,7 +44,7 @@ Por ejemplo:
 - Modo claro - Modo oscuro con localstorage
 - Notificaciones de alertas personalizadas
 
-![Pagina de Inicio](img/pagina_de_inicio.jpg)
+![Pagina de Inicio](img/pagina-inicio.png)
 
 ---
 
